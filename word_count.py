@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 # Dummy Program Just for Testing GitHub
 
 happy = input("Enter a statement to word count: ")
