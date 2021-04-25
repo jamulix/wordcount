@@ -1,5 +1,6 @@
 # happy = "I felt happy because I saw the others were happy and because I knew I should feel happy but I was not really happy"
 
+print "Enter a statement to word count: "
 happy = input()
 
 words = happy.split()
