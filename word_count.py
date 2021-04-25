@@ -1,6 +1,6 @@
-# Dummy Program just for Testing GitHub
+# Dummy Program Just for Testing GitHub
 
-print "Enter a statement to word count: "
+print ("Enter a statement to word count: ")
 happy = input()
 
 words = happy.split()
